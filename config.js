@@ -11,7 +11,7 @@ global.email ="saimsamsun789@gmail.com"
 global.location="Lahore,Pakistan."
 
 
-global.mongodb= process.env.MONGODB_URI || "mongodb://mongo:uzzYuQVlvMOONQtcCfjGHuLwFaPKbofX@mongodb.railway.internal:27017"
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://mihirukdilshan1:<password>@cluster0.djsffwt.mongodb.net/"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
